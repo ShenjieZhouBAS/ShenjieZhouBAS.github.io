@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -28,7 +28,11 @@ Work experience
   * Open Oceans group, Polar Oceans Team, British Antarctic Survey
   * Working on SO-CHIC WP3: Deep ocean ventilation
   * Line Manager/Supervisor: [Dr. Andrew Meijers](https://www.bas.ac.uk/profile/andmei/)
-  
+
+Publications
+======
+A list of full publication can be found [here](https://scholar.google.com/citations?user=6hXlKKAAAAAJ&hl=en&oi=ao).
+
 Full CV
 ======
 Access to the full [CV](https://drive.google.com/file/d/1haxMyxIMQy1svYgj2eHBFOOVrdA2rJdU/view?usp=sharing)
