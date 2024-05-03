@@ -21,10 +21,8 @@ Southern Ocean dynamics; air-sea-ice interaction in Antarctica; Antarctic Bottom
 Meet our feline friends
 ================
 Cumulus
--------
 ![Cumulus](/images/Cumulus.jpg)
 
 Nimbus
--------
 ![Nimbus](/images/Nimbus.jpg)
 
