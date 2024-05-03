@@ -14,9 +14,9 @@ By night, I pay my tribute to our new family members - two maine coons, Cumulus 
 
 
 Cumulus
-[/image/Cumulus.jpg]
+(/image/Cumulus.jpg)
 Nimbus
-[/image/Nimbus.jpg]
+(/image/Nimbus.jpg)
 
 
 Research interests
