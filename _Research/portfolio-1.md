@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Southern Ocean Hydrography Climatology - an update"
+excerpt: "Profile location and count <br/><img src='/images/SO_CLIM.png'>"
 collection: Research
 ---
 
