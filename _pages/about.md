@@ -12,15 +12,18 @@ I am a physical oceanographer by day working at [British Antarctic Survey (BAS)]
  
 By night, I pay my tribute to our new family members - two maine coons, Cumulus and Nimbus (previously known as Jeff and Ralph). In my spare time, I also go running, cycling, paddle boarding, climbing and verying occassional pubbing.
 
-Meet our feline friends
---------
-Cumulus
-![Cumulus](/images/Cumulus.jpg)
-Nimbus
-![Nimbus](/images/Nimbus.jpg)
-
-
 Research interests
 =================
 
 Southern Ocean dynamics; air-sea-ice interaction in Antarctica; Antarctic Bottom Water formation and transport; hydrography climatology in Southern Ocean
+
+
+Meet our feline friends
+================
+Cumulus
+-------
+![Cumulus](/images/Cumulus.jpg)
+Nimbus
+-------
+![Nimbus](/images/Nimbus.jpg)
+
