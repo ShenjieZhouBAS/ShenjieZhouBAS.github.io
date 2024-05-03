@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Sciences (Physical Oceanography), University of East Anglia, 2020
+  Thesis: [The ocean’s response to stochastic atmospheric forcing](https://ueaeprints.uea.ac.uk/id/eprint/81487/)
+  Advisors: [Dr. Xiaoming Zhai](https://research-portal.uea.ac.uk/en/persons/xiaoming-zhai); [Prof. Ian Renfrew](https://research-portal.uea.ac.uk/en/persons/ian-renfrew)
+* M.S. in Oceanography (Gen) with distinction, University of Southampton, 2015
+* B.S. in Marine Sciences, Nanjing University of Information Sciences and Technology, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.11 - present: PDRA physical oceanographer
+  * Shelf Seas group, Polar Oceans Team, British Antarctic Survey
+  * Working on OCEAN:ICE WP3: Pan-Antarctic hydrography and moored time series
+  * Line Manager/Supervisor: [Dr. Pierre Dutrieux](https://www.bas.ac.uk/profile/pitr1/)
+    
+* 2020.07 - 2023.11: PDRA physical oceanographer
+  * Open Oceans group, Polar Oceans Team, British Antarctic Survey
+  * Working on SO-CHIC WP3: Deep ocean ventilation
+  * Line Manager/Supervisor: [Dr. Andrew Meijers](https://www.bas.ac.uk/profile/andmei/)
+  
+Full CV
+======
+Access to the full [CV](https://drive.google.com/file/d/1haxMyxIMQy1svYgj2eHBFOOVrdA2rJdU/view?usp=sharing)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
