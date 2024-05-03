@@ -12,8 +12,11 @@ I am a physical oceanographer by day working at [British Antarctic Survey (BAS)]
  
 By night, I pay my tribute to our new family members - two maine coons, Cumulus and Nimbus (previously known as Jeff and Ralph). In my spare time, I also go running, cycling, paddle boarding, climbing and verying occassional pubbing.
 
+
 Cumulus
-------
+[/image/Cumulus.jpg]
+Nimbus
+[/image/Nimbus.jpg]
 
 
 Research interests
