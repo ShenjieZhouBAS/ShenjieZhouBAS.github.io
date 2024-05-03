@@ -23,6 +23,7 @@ Meet our feline friends
 Cumulus
 -------
 ![Cumulus](/images/Cumulus.jpg)
+
 Nimbus
 -------
 ![Nimbus](/images/Nimbus.jpg)
