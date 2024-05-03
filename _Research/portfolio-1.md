@@ -1,6 +1,6 @@
 ---
 title: "Southern Ocean Hydrography Climatology - an update"
-excerpt: "Profile location and count <br/><img src='/images/SO_CLIM.png'>"
+excerpt: "Temperature/Salinity profiles distribution south of 45°S and the count numbers in 50km bins<br/><img src='/images/SO_CLIM.png'>"
 collection: Research
 ---
 
