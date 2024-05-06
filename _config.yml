@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Hey you found me!"
+title                    : "Shenjie's Homepage"
 title_separator          : "-"
 name                     : &name "Shenjie Zhou"
 description              : &description "I am a polar physical oceanographer at British Antarctic Survey."
