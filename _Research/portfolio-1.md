@@ -8,4 +8,8 @@ This work involves in aggregating the historical temperature-salinity profiles c
 
 ![Figure 1](/images/Research_1_fig1.png)
 Figure 1. (left) The ellipses used in our climatology aligning with SSH contour (red) from SOSE. (right) The majoraxis length (km) of each ellipse varying with local bathymetry.
- 
+
+We then construct 2D maps for metrics that are of our interests such as the temperature of Circumpolar Deep Water (CDW) which is the primary source of heat that leads to Antarctic ice shelves melting. The comparison between our climatology and the SOSE results shows high consistency (Figure 2), suggesting that the climatology is capturing the broad the picture of the thermohaline characteristics of the Southern Ocean water masses.
+
+[!Figure 2](/images/Research_1_fig2.png)
+Figure 2. (left column) The conservative temperature map of CDW (defined as the temperature maximum below 200 m down along the water column) and winter water (defined as temperature minimum between 50 to 400 m down along the water column) from our climatology. (right column) Same field derived from SOSE output.
