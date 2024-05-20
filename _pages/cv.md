@@ -21,7 +21,7 @@ Work experience
 ======
 * 2023.11 - present: PDRA physical oceanographer
   * Shelf Seas group, Polar Oceans Team, British Antarctic Survey
-  * Working on OCEAN:ICE WP3: Pan-Antarctic hydrography and moored time series
+  * Working on OCEAN:ICE WP1: Pan-Antarctic hydrography and moored time series
   * Line Manager/Supervisor: [Dr. Pierre Dutrieux](https://www.bas.ac.uk/profile/pitr1/)
     
 * 2020.07 - 2023.11: PDRA physical oceanographer
