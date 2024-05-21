@@ -1,6 +1,6 @@
 ---
-title: "Southern Ocean Hydrography Climatology - an update"
-excerpt: "Temperature/Salinity profiles distribution south of 45°S and the count numbers in 50km bins<br/><img src='/images/SO_CLIM.png'>"
+title: "Stochastic parametersation of mesoscale wind kinetic energy"
+excerpt: "A coherent reanalysis (ERA5) wind kinetic energy deficiency over mesoscale range in both wavenumber and frequency domain <br/><img src='/images/WIND_KE.png'>"
 collection: Research
 ---
 
