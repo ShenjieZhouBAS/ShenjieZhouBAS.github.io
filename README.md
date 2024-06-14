@@ -1,1 +1,1 @@
-This repo creates and maintains my home page [ShenjieZhouBAS.github.io](https://shenjiezhoubas.github.io).
+This repo creates and maintains my home page [ShenjieZhou.github.io](https://shenjiezhou.github.io).
